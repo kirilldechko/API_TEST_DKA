@@ -1,8 +1,6 @@
 
 ;
 conftest.py,1\e\1e4f0373b798e1c815760b0d5b71eed49df13ea5
-O
-endpoints/aythorize_endpoint.py,2\6\269d16fdb4dcd2b38ead07727a6463c63762a208
 U
 %endpoints/change_meme_put_endpoint.py,8\6\866697526f3f85d72bd0b52c20a6fa98386165fb
 Q
@@ -34,3 +32,6 @@ pytest.ini,e\a\ea898f73cf4daab2e41a2c710093f364ce6a7d1b
 requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
 O
 endpoints/authorize_endpoint.py,7\5\75fac8ebdc94e499f440889b5f19c770a1a214be
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
